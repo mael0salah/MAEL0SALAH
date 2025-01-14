@@ -18,16 +18,3 @@ This repository is a showcase of creative ASCII art designs. Below is the featur
 +                                                                                                                        J88"  
 +                                                                                                                        @%    
 +                                                                                                                      :"       
-```
-
-## About
-This project is a celebration of the artistic possibilities of ASCII art. ASCII art is a graphic design technique that uses printable characters from the ASCII standard to create images, designs, and other visual representations.
-
-## How to Use
-Feel free to copy, modify, or integrate this ASCII art into your projects. If you do, consider giving credit to this repository!
-
-## Contributions
-Contributions are welcome! If you have your own ASCII art designs or improvements, feel free to submit a pull request.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
