@@ -3,11 +3,11 @@
 
 ```
 {
-  "Description": "A friendly developer who loves ethical hacking",
-  "Languages": ["Python", "Php", "NodeJS", "Html, Css, Js"],
+  "Description": "Un développeur sympathique qui aime le hacking éthique",
+  "Langages": ["Python", "Php", "NodeJS", "Html", "Css", "Js"],
   "Frameworks": ["React", "Electron"],
-  "Databases": ["Mysql"", PostgreSQL]
-  "Projects": ["Iris C2", "Sentinel C2", "Spectre", "Nova Sentinel", "Mlf Crypto Bot"]
+  "BasesDeDonnees": ["Mysql", "PostgreSQL"],
+  "Projets": ["Iris C2", "Sentinel C2", "Spectre", "Nova Sentinel", "Mlf Crypto Bot"]
 }
 ```
 
