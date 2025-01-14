@@ -1,7 +1,3 @@
-# ASCII Art Showcase
-
-This repository is a showcase of creative ASCII art designs. Below is the featured piece:
-
 ```
      ...     ..      ..                                  ..           ...                           ..                         
   x*8888x.:*8888: -"888:                          x .d88"        .x888888hx    :             x .d88"                .uef^"    
@@ -17,4 +13,4 @@ X8888 X8888  88888   "*8%-    us888u.    ud8888.    888R      !  "   ` .xnxx.   
     "~'    "~        ""     ^Y"   ^Y'     "YP'       "%            ^"****""`      ^Y"   ^Y'     "%     ^Y"   ^Y'   `Y"   888  
                                                                                                                         J88"  
                                                                                                                         @%    
-                                                                                                                      :"       
+                                                                                                                      :"
