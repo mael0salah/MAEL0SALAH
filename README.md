@@ -2,7 +2,8 @@
 
 This repository is a showcase of creative ASCII art designs. Below is the featured piece:
 
-```diff
+```html
+<pre style="color: green;">
 +     ...     ..      ..                                  ..           ...                           ..                         
 +  x*8888x.:*8888: -"888:                          x .d88"        .x888888hx    :             x .d88"                .uef^"    
 + X   48888X `8888H  8888                           5888R        d88888888888hxx               5888R               :d88E       
@@ -18,3 +19,4 @@ This repository is a showcase of creative ASCII art designs. Below is the featur
 +                                                                                                                        J88"  
 +                                                                                                                        @%    
 +                                                                                                                      :"       
+</pre>
