@@ -1,8 +1,4 @@
 <p align="center">
-  <h1>🐧 Welcome To My Profile 🐧</h1>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/mael0salah/mael0salah/refs/heads/main/BG.PNG" alt="Profile Background">
 </p>
 
